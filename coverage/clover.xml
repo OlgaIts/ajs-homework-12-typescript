@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1710832984311" clover="3.2.0">
-  <project timestamp="1710832984311" name="All files">
+<coverage generated="1710835187720" clover="3.2.0">
+  <project timestamp="1710835187720" name="All files">
     <metrics statements="24" coveredstatements="24" conditionals="0" coveredconditionals="0" methods="10" coveredmethods="10" elements="34" coveredelements="34" complexity="0" loc="24" ncloc="24" packages="1" files="3" classes="3"/>
     <file name="Book.ts" path="C:\Users\Its\Desktop\JavaScript\netology\JS-homeWork\ajs-homeworks\1-HomeWork\12-ajs-homework-typescript\src\js\Book.ts">
       <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
